@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 class ToDoList extends StatelessWidget {
-  const ToDoList({super.key,required this.taskname});
+  const ToDoList({super.key,
+  required this.taskname,
+  required this.taskcomplected,
+  required this.onChanged});
   final String taskname;
+  final bool taskcomplected;
+  final Function(bool?)? onChanged;
   @override
   Widget build(BuildContext context) {
     return Padding(
@@ -18,9 +23,16 @@ class ToDoList extends StatelessWidget {
                 borderRadius: BorderRadius.circular(15),
               ),
               padding: EdgeInsets.all(20),
-              child: Text(
-                taskname,
-                style: TextStyle(color: Colors.white, fontSize: 18),
+              child: Row(
+                children: [
+                  Checkbox(
+                    value: taskcomplected, 
+                    onChanged: onChanged),
+                  Text(
+                    taskname,
+                    style: TextStyle(color: Colors.white, fontSize: 18),
+                  ),
+                ],
               ),
             ),
           );
