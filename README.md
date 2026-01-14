@@ -11,3 +11,11 @@ Hi there, I'm Niranjan 👋<br><br> About Me<br>- 💻 I'm a  Flutter Developer 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Contribution Snake Animation
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NiranjanTK/NiranjanTK/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/NiranjanTK/NiranjanTK/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/NiranjanTK/NiranjanTK/raw/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
