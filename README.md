@@ -3,15 +3,9 @@
   <h3>Flutter Developer | Building Cross-Platform Mobile & Desktop Applications</h3>
 </div>
 
-<br>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niranjantk&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjantk&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
-</div>
 
 ### About Me
-Flutter developer focused on creating performant, modern mobile and desktop applications.  
+Hi! I'm a Flutter developer focused on creating performant, modern mobile and desktop applications.  
 Currently developing cross-platform solutions at BufferBytes Technology.
 
 - Passionate about clean architecture and pixel-perfect UI/UX
@@ -43,17 +37,3 @@ Currently developing cross-platform solutions at BufferBytes Technology.
 </div>
 
 <br>
-
-### Featured Projects
-
-<div align="center">
-  <h4>Pharmacy Management & Billing System</h4>
-  <p><i>A premium Flutter application for managing inventory, patients, and streamlined billing.</i></p>
-  <img src=".assets/pharmacy_app_mockup.png" width="800px" alt="Pharmacy App Mockup"/>
-</div>
-
-<br>
-
-<div align="center">
-  <i>Building clean, efficient, and scalable applications — one commit at a time.</i>
-</div>
