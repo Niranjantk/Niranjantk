@@ -44,23 +44,16 @@ Currently developing cross-platform solutions at BufferBytes Technology.
 
 <br>
 
-### GitHub Activity Graph (Last 31 Days)
+### Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjantk&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <h4>Pharmacy Management & Billing System</h4>
+  <p><i>A premium Flutter application for managing inventory, patients, and streamlined billing.</i></p>
+  <img src=".assets/pharmacy_app_mockup.png" width="800px" alt="Pharmacy App Mockup"/>
 </div>
 
+<br>
+
 <div align="center">
-  <br>
   <i>Building clean, efficient, and scalable applications — one commit at a time.</i>
-</div>
-
-
-### Contribution Snake Animation
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Niranjantk/Niranjantk/raw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Niranjantk/Niranjantk/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/Niranjantk/Niranjantk/raw/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
