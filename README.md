@@ -6,8 +6,8 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiranjanTK&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanTK&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niranjantk&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjantk&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
 </div>
 
 ### About Me
@@ -47,7 +47,7 @@ Currently developing cross-platform solutions at BufferBytes Technology.
 ### GitHub Activity Graph (Last 31 Days)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiranjanTK&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niranjantk&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </div>
 
 <div align="center">
@@ -59,8 +59,8 @@ Currently developing cross-platform solutions at BufferBytes Technology.
 ### Contribution Snake Animation
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NiranjanTK/NiranjanTK/raw/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/NiranjanTK/NiranjanTK/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/NiranjanTK/NiranjanTK/raw/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Niranjantk/Niranjantk/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Niranjantk/Niranjantk/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Niranjantk/Niranjantk/raw/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
